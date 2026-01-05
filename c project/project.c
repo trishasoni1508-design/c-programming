@@ -179,7 +179,7 @@ void displayMarksheet(struct Student s[], int n) {
 
 //Enter details for Student 1:
 //Roll Number: 100
-//Name: vaibhav
+//Name: Trisha
 //Marks for Maths: 99
 //Marks for Web-Tech: 97
 //Marks for C programming: 96
@@ -222,7 +222,7 @@ void displayMarksheet(struct Student s[], int n) {
 /*=== CLASS RANK LIST ===
 Rank  Name                 Total      Percent    Grade
 ----------------------------------------------------------
-1     vaibhav              292.00     97.33      A
+1     Trisha             292.00     97.33      A
 2     shikha               275.00     91.67      A
 3     yana                 255.00     85.00      B
 4     sourav               150.00     50.00      D
@@ -236,8 +236,8 @@ Rank  Name                 Total      Percent    Grade
 Enter choice: 2
 
 === SUBJECT TOPPERS ===
-Maths Topper: vaibhav (99.00)
-Physics Topper: vaibhav (97.00)
+Maths Topper: Trisha (99.00)
+Physics Topper: Trisha (97.00)
 Chemistry Topper: shikha (99.00)
 
 --- MENU ---
@@ -270,4 +270,5 @@ Final Grade: B
 3. View Individual Marksheet
 4. Exit
 Enter choice: 4
+
 Exiting system*/
